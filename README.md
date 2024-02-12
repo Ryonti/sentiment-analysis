@@ -13,3 +13,5 @@ There are several methods used for sentiment analysis, including:
 4. **Hybrid approaches:** Some sentiment analysis methods combine multiple techniques, such as lexicon-based and machine learning-based approaches, to improve accuracy and performance.
 
 The choice of method depends on various factors, including the nature of the text data, the available computational resources, and the specific requirements of the sentiment analysis task. Additionally, preprocessing steps such as tokenization, stemming, and removing stopwords are often performed before applying sentiment analysis techniques to the text data.
+
+[sentiment-analysis/ml/nb]()
