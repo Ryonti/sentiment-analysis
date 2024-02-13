@@ -14,6 +14,7 @@ There are several methods used for sentiment analysis, including:
 
 The choice of method depends on various factors, including the nature of the text data, the available computational resources, and the specific requirements of the sentiment analysis task. Additionally, preprocessing steps such as tokenization, stemming, and removing stopwords are often performed before applying sentiment analysis techniques to the text data.
 
+Branch
 1. [sentiment-analysis/ml/nb](https://github.com/Ryonti/sentiment-analysis/tree/sentiment-analysis/ml/nb)
 2. [sentiment-analysis/model/text](https://github.com/Ryonti/sentiment-analysis/tree/sentiment-analysis/model/text)
-3. [sentiment-analysis/ml/app](https://github.com/Ryonti/sentiment-analysis/tree/sentiment-analysis/ml/app)
+3. [sentiment-analysis/ml/data](https://github.com/Ryonti/sentiment-analysis/tree/sentiment-analysis/data)
